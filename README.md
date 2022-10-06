@@ -1,5 +1,6 @@
 # Hi there 👋 this is Feru
 
+[![Feru's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyoferu)](https://github.com/heyoferu)
 ## How's life
 - 📱 Linux user since 2012
 - 💻 Currently studying Software Development
